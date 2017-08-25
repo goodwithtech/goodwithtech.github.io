@@ -13,10 +13,10 @@
   },
   "about_me":{
     "about_me": "About Us",
-    "des": "We are "
+    "des": "The most powerful company for every customers."
   },
   "skills":{
-    "my_skills": "My Skills"
+    "my_skills": "Our Skills"
   },
   "projects":{
     "my_projects": "What can we do?",
@@ -24,22 +24,12 @@
     "management": "We can manage your project, we have professional project managemente licences.",
     "development": "We develop your system, from inflastructure to programming."
   },
-  "CEO's career":{
-      "my_career": "CEO's Career",
-      "goodwith": "Goodwith LLC",
-      "goodwith_des": "Now I am CEO and CTO in Goodwith LLC.",
-      "goodwith_date": "Jun. 2017",
-      "nextcode_job": "CEO, CTO",
-
-      "reazon": "Reazon CO.LTD.,",
-      "reazon_des": "",
-      "reazon_date": "Feb. 2016",
-      "reazon_job": "Manager at Advertise, Engineer",
-
-      "enish": "Enish",
-      "enish_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
-      "enish_date": "Sep. 2013",
-      "enish_job": "Engineer, Game Producer, Creative Director"
+  "carrer":{
+      "my_career": "History",
+      "launch": "Launch a company",
+      "launch_des": "...",
+      "launch_date": "Jun. 2017",
+      "launch_job": "launched"
   },
   "blog":{
     "my_blog": "Our Tech Blog"
