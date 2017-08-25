@@ -1,18 +1,12 @@
 # links section data
-- last_name: Name 1
-  first_name:
+- last_name: Tomoya
+  first_name: Amachi
   desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  website: https://tomoya.goodwith.tech
+  email: tomoya.amachi@goodwith.tech
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
-
-- last_name: LN
-  first_name: FN
+- last_name: Yuki
+  first_name: Amachi
   desc: COO
-  website: https://github.com
-  email: coo@google.com
+  website:
+  email: info@goodwith.tech
