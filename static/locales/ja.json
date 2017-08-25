@@ -1,0 +1,37 @@
+{
+  "website":{
+    "title": "Goodwith LLC"
+  },
+  "nav":{
+    "home": "トップ",
+    "about_me": "私達について",
+    "skills": "スキル",
+    "projects": "業務内容",
+    "career": "沿革",
+    "blog": "ブログ",
+    "link": "リンク"
+  },
+  "about_me":{
+    "about_me": "私達について",
+    "des": "技術のコンサルティングから開発まで対応します"
+  },
+  "skills":{
+    "my_skills": "スキル"
+  },
+  "projects":{
+    "my_projects": "業務内容",
+    "system_consulting": "システムのコンサルティングを行います",
+    "management": "プロジェクトマネジメントのアドバイス/代行を行います",
+    "development": "開発業務を引き受けます"
+  },
+  "career":{
+      "my_career": "沿革",
+      "launch": "創業",
+      "launch_des": "...",
+      "launch_date": "2017年7月",
+      "launch_job": "創業"
+  },
+  "blog":{
+    "my_blog": "ブログ"
+  }
+}
