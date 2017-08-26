@@ -4,7 +4,7 @@
   },
   "nav":{
     "home": "トップ",
-    "about_me": "私達について",
+    "about_me": "会社概要",
     "skills": "スキル",
     "projects": "業務内容",
     "career": "沿革",
@@ -12,7 +12,7 @@
     "link": "リンク"
   },
   "about_me":{
-    "about_me": "私達について",
+    "about_me": "",
     "des": "技術のコンサルティングから開発まで対応します"
   },
   "skills":{
