@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Goodwith LLC  # Be used at blog posts' author.
   first_name: Goodwith  # Be used at index page about me section.
   last_name: LLC  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/logo.png  # upload your avatar at directory and edit it.
   github_username: goodwithtech  # Leave blank if you don't have now
   linkedin_id:  # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
