@@ -18,10 +18,7 @@ module.exports = {
             'node_modules/jquery/dist/jquery.js',
             'node_modules/bootstrap/dist/js/bootstrap.js',
             'node_modules/chart.js/dist/Chart.js',
-            'node_modules/pace-progress/pace.js',
-            'node_modules/wowjs/dist/wow.js',
-            'static/js/scroll.js',
-            'static/js/count.js'
+            'node_modules/pace-progress/pace.js'
         ]
     }, {
         name: 'i18next page',
@@ -44,10 +41,7 @@ module.exports = {
             'node_modules/metismenu/dist/metisMenu.js',
             'node_modules/jquery-slimscroll/jquery.slimscroll.js',
             'node_modules/peity/jquery.peity.js',
-            'node_modules/pace-progress/pace.js',
-            'node_modules/wowjs/dist/wow.js',
-            'static/js/scroll.js',
-            'static/js/count.js'
+            'node_modules/pace-progress/pace.js'
         ]
     }, {
         name: 'blog pages\' jPage',
