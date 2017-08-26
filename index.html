@@ -31,9 +31,9 @@ permalink: /
           {% endfor %}
           {% for language in site.data.index.language %}
           <li>
-            <a id="set_lang_{{ language.locale }}" class="btn btn-sm set_{{ language.locale }}" data-locale="{{ language.locale }}">
-              <img src="{{ language.flag | prepend: site.baseurl }}" height="16" width="16">
-            </a>
+              <a id="set_lang_{{ language.locale }}" class="btn btn-sm set_{{ language.locale }}" data-locale="{{ language.locale }}">
+                  <img src="{{ language.flag | prepend: site.baseurl }}" height="16" width="16">
+              </a>
           </li>
           {% endfor %}
         </ul>
@@ -46,6 +46,11 @@ permalink: /
 {% endif %}
 
 {% for section in site.data.landing %}
+
+{% if section.id == "blog" %}
+  {% continue %}
+{% endif %}
+
 {% assign loopindex = forloop.index | modulo: 2 %}
 <section id="{{ section.id }}" class="features {% if loopindex != 1 %} gray-section {% endif %} {{ section.css }}" style="margin-top: 0;">
   {% include sections/{{section.tpl}} %}
