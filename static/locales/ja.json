@@ -8,7 +8,8 @@
     "skills": "スキル",
     "projects": "業務内容",
     "career": "沿革",
-    "blog": "ブログ",
+    "blog": "ブログ(英語)",
+    "blog_ja": "ブログ(日本語)",
     "link": "リンク"
   },
   "about_me":{

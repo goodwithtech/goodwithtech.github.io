@@ -36,3 +36,9 @@
   tpl: blog.html
   page: blog/
   css: testimonials navy-section
+
+- id: blog_ja
+  i18n: nav.blog_ja
+  name: Blog(JP)
+  page: https://qiita.com/tomoyamachi
+  css: testimonials navy-section
