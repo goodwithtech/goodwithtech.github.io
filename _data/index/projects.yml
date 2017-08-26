@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: System Consulting
   i18n: system_consulting
-  img: /static/assets/img/landing/programming.png
+  img: /static/assets/img/landing/businessman.png
   desc: consulting
 
 - name: Management
@@ -13,5 +13,5 @@
 
 - name: Development
   i18n: development
-  img: /static/assets/img/landing/businessman.png
+  img: /static/assets/img/landing/programming.png
   desc: develop
