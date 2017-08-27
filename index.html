@@ -47,7 +47,7 @@ permalink: /
 
 {% for section in site.data.landing %}
 
-{% if section.id.index("blog") != nil %}
+{% if section.id == "blog" or section.id == "blog_ja" %}
   {% continue %}
 {% endif %}
 
