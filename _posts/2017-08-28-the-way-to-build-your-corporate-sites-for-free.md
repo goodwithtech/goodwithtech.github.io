@@ -60,7 +60,7 @@ icon: icon-html
 
 
 ## Mail
-It would be set forward to another mail domain only [Onamae.com]().
+It would be set forward to another mail domain only [Onamae.com](https://onamae.com).<br/>
 Please let me know if you know how to set another NS hosting service.
 
 
@@ -84,18 +84,21 @@ Please let me know if you know how to set another NS hosting service.
 
 ## Each captures
 - GitHub page
-<!-- ![gh-page]({{ site.img_path }}/build_corporate_site/gh-page.png) -->
+
+<img src="{{ site.img_path }}/build_corporate_site/gh-page.png" width="75%">
 
 - Cloudflare
-<!-- ![cloudflare]({{ site.img_path }}/build_corporate_site/onamae.png) -->
+
+<img src="{{ site.img_path }}/build_corporate_site/cloudflare.png" width="75%">
 
 - Onamae.com
-<!-- ![onamae]({{ site.img_path }}/build_corporate_site/onamae.png) -->
+
+<img src="{{ site.img_path }}/build_corporate_site/onamae.png" width="75%">
 
 ## Slack
 1. No special way to setting. Create your team normally.
 
 # Conclusion
-Now You don't need money to create your new business environment.
-Your payment is only to register your Domain.
+Now You don't need money to create your new business environment.<br/>
+Your payment is only to register your Domain.<br/>
 Please advice to me if you know a better way than my article.
