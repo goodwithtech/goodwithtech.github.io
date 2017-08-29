@@ -5822,8 +5822,123 @@ dd.project-people {
 }
 
 .article h1,
-.blog h2 {
-    font-weight: 700
+.article h2,
+.article h3,
+.article h4,
+.article h5,
+.article h6 {
+    line-height: normal;
+    font-weight: 500;
+    margin-bottom: 30px;
+    padding-bottom: 10px
+}
+
+.article h1:before,
+.article h2:before,
+.article h3:before,
+.article h4:before,
+.article h5:before,
+.article h6:before {
+    display: block;
+    content: " ";
+    margin-top: -100px;
+    height: 100px;
+    visibility: hidden
+}
+
+.article h1,
+.article h2 {
+    border-bottom: 1px solid #ccc
+}
+
+.article h1 {
+    font-size: 32px;
+    padding-right: 60px
+}
+
+.article h2 {
+    font-size: 28px
+}
+
+.article h3 {
+    font-size: 24px;
+    font-weight: 300;
+    margin-bottom: 5px
+}
+
+.article h4 {
+    font-size: 20px;
+    margin-bottom: 0
+}
+
+.article h5,
+.article h6 {
+    font-size: 16px;
+    font-weight: 500
+}
+
+.article p {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.75em
+}
+
+.article p+p {
+    margin-top: 10px
+}
+
+.article code {
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: #f7f7f7;
+    color: #303030;
+    font-family: "Roboto Mono", monospace;
+    vertical-align: baseline;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 2px 4px
+}
+
+.article a code {
+    color: #3371e3;
+    text-decoration: underline
+}
+
+.article pre .pi,
+.article pre .s {
+    margin: 0;
+    padding: 0
+}
+
+.article .highlight code span,
+.article code,
+.article pre code {
+    font-family: "Roboto Mono", monospace
+}
+
+.article code,
+.article pre code {
+    color: #303030
+}
+
+.article pre code {
+    padding: 0
+}
+
+.article pre {
+    background-color: #f7f7f7;
+    display: block;
+    margin: 20px 0;
+    padding: 15px;
+    position: relative;
+    overflow-x: auto
+}
+
+.article-title h1 {
+    font-size: 38px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 10px
 }
 
 .client-avatar {
