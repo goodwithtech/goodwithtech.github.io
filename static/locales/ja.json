@@ -3,13 +3,12 @@
     "title": "Goodwith LLC"
   },
   "nav":{
-    "home": "トップ",
     "about_me": "会社概要",
     "skills": "スキル",
     "projects": "業務内容",
     "career": "沿革",
-    "blog": "ブログ(英語)",
-    "blog_ja": "ブログ(日本語)",
+    "blog": "ブログ(英)",
+    "blog_ja": "ブログ(日)",
     "link": "リンク"
   },
   "about_me":{

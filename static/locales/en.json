@@ -3,9 +3,8 @@
     "title": "Goodwith LLC"
   },
   "nav":{
-    "home": "Home",
-    "about_me": "About Us",
-    "skills": "Our Skills",
+    "about_me": "About",
+    "skills": "Skills",
     "projects": "Business",
     "career": "History",
     "blog": "Blog(EN)",
