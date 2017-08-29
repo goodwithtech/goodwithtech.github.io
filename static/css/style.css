@@ -5841,19 +5841,6 @@ dd.project-people {
     padding-bottom: 10px
 }
 
-.ibox h1:before,
-.ibox h2:before,
-.ibox h3:before,
-.ibox h4:before,
-.ibox h5:before,
-.ibox h6:before {
-    display: block;
-    content: " ";
-    margin-top: -100px;
-    height: 100px;
-    visibility: hidden
-}
-
 .ibox h1,
 .ibox h2 {
     border-bottom: 1px solid #ccc

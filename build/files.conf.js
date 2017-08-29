@@ -71,7 +71,7 @@ module.exports = {
             'node_modules/pace-progress/themes/blue/pace-theme-flash.css',
             'search/css/cb-search.css',
             'static/css/pygments.css',
-            // 'static/css/style.css'
+            'static/css/style.css',
             'static/css/style-purify.css'
         ]
     }]
