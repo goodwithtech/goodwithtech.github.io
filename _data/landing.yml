@@ -18,11 +18,12 @@
   tpl: skills.html
   css: team
 
-- id: career
-  i18n: nav.career
-  name: History
-  tpl: career.html
-  css: timeline
+# まだコンテンツがないので一旦消す
+# - id: career
+#   i18n: nav.career
+#   name: History
+#   tpl: career.html
+#   css: timeline
 
 - id: links
   i18n: nav.link

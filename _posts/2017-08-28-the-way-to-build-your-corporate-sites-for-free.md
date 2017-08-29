@@ -12,8 +12,6 @@ icon: icon-html
 
 # Conclusion
 1. Corporate site : [GitHub Pages](https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/)
-	2. Homepage
-	3. BLOG
 2. Mail : Forward mail to own personal Gmail
 3. CDN/SSL : [Cloudflare](https://cloudflare.com/)
 4. Chat : [Slack](https://slack.com/)
