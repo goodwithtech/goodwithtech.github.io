@@ -5834,13 +5834,8 @@ dd.project-people {
     font-weight: 300;
     margin-bottom: 30px;
     padding-bottom: 10px
-}
-
-.ibox h1 {
-    border-bottom: 1px solid #ccc
-}
-
-.ibox h1 {
+    font-weight: bold;
+    border-bottom: 1px solid #ccc;
     font-size: 32px;
 }
 
