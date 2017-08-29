@@ -5821,24 +5821,32 @@ dd.project-people {
     border: none
 }
 
-.article h1,
-.article h2,
-.article h3,
-.article h4,
-.article h5,
-.article h6 {
+.ibox {
+   margin-top: 59px;
+   font-size: 16px;
+   line-height: 1.5;
+   color: #333;
+   background-color: #fff;
+}
+
+.ibox h1,
+.ibox h2,
+.ibox h3,
+.ibox h4,
+.ibox h5,
+.ibox h6 {
     line-height: normal;
     font-weight: 500;
     margin-bottom: 30px;
     padding-bottom: 10px
 }
 
-.article h1:before,
-.article h2:before,
-.article h3:before,
-.article h4:before,
-.article h5:before,
-.article h6:before {
+.ibox h1:before,
+.ibox h2:before,
+.ibox h3:before,
+.ibox h4:before,
+.ibox h5:before,
+.ibox h6:before {
     display: block;
     content: " ";
     margin-top: -100px;
@@ -5846,48 +5854,48 @@ dd.project-people {
     visibility: hidden
 }
 
-.article h1,
-.article h2 {
+.ibox h1,
+.ibox h2 {
     border-bottom: 1px solid #ccc
 }
 
-.article h1 {
+.ibox h1 {
     font-size: 32px;
     padding-right: 60px
 }
 
-.article h2 {
+.ibox h2 {
     font-size: 28px
 }
 
-.article h3 {
+.ibox h3 {
     font-size: 24px;
     font-weight: 300;
     margin-bottom: 5px
 }
 
-.article h4 {
+.ibox h4 {
     font-size: 20px;
     margin-bottom: 0
 }
 
-.article h5,
-.article h6 {
+.ibox h5,
+.ibox h6 {
     font-size: 16px;
     font-weight: 500
 }
 
-.article p {
+.ibox p {
     font-size: 16px;
     font-weight: 300;
     line-height: 1.75em
 }
 
-.article p+p {
+.ibox p+p {
     margin-top: 10px
 }
 
-.article code {
+.ibox code {
     display: inline-block;
     box-sizing: border-box;
     background-color: #f7f7f7;
@@ -5899,33 +5907,33 @@ dd.project-people {
     padding: 2px 4px
 }
 
-.article a code {
+.ibox a code {
     color: #3371e3;
     text-decoration: underline
 }
 
-.article pre .pi,
-.article pre .s {
+.ibox pre .pi,
+.ibox pre .s {
     margin: 0;
     padding: 0
 }
 
-.article .highlight code span,
-.article code,
-.article pre code {
+.ibox .highlight code span,
+.ibox code,
+.ibox pre code {
     font-family: "Roboto Mono", monospace
 }
 
-.article code,
-.article pre code {
+.ibox code,
+.ibox pre code {
     color: #303030
 }
 
-.article pre code {
+.ibox pre code {
     padding: 0
 }
 
-.article pre {
+.ibox pre {
     background-color: #f7f7f7;
     display: block;
     margin: 20px 0;
