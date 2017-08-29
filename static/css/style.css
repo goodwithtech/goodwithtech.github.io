@@ -5829,20 +5829,14 @@ dd.project-people {
    background-color: #fff;
 }
 
-.ibox h1,
-.ibox h2,
-.ibox h3,
-.ibox h4,
-.ibox h5,
-.ibox h6 {
+.ibox h1 {
     line-height: normal;
     font-weight: 300;
     margin-bottom: 30px;
     padding-bottom: 10px
 }
 
-.ibox h1,
-.ibox h2 {
+.ibox h1 {
     border-bottom: 1px solid #ccc
 }
 
@@ -5851,24 +5845,22 @@ dd.project-people {
 }
 
 .ibox h2 {
-    font-size: 20px
+    font-size: 24px;
+    font-weight: bold;
 }
 
 .ibox h3 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 300;
-    margin-bottom: 5px
 }
 
 .ibox h4 {
-    font-size: 20px;
-    margin-bottom: 0
+    font-size: 18px;
 }
 
 .ibox h5,
 .ibox h6 {
     font-size: 16px;
-    font-weight: 500
 }
 
 .ibox p {
