@@ -4933,7 +4933,7 @@ body.fullscreen-ibox-mode {
 }
 
 .ibox.fullscreen {
-    z-index: 2030;
+    z-Index: 2030;
     position: fixed;
     top: 0;
     left: 0;
@@ -5831,17 +5831,16 @@ dd.project-people {
 
 .ibox h1 {
     line-height: normal;
-    font-weight: 300;
     margin-bottom: 30px;
-    padding-bottom: 10px
-    font-weight: bold;
+    padding-bottom: 10px;
+    font-weight: 600 !important;
     border-bottom: 1px solid #ccc;
-    font-size: 32px;
+    font-size: 30px !important;
 }
 
 .ibox h2 {
     font-size: 24px;
-    font-weight: bold;
+    font-weight: 500;
 }
 
 .ibox h3 {
@@ -5958,11 +5957,6 @@ dd.project-people {
 .blog .btn,
 .blog h5 {
     margin: 0 0 5px
-}
-
-.article h1 {
-    font-size: 48px;
-    color: #2F4050
 }
 
 .article p {
