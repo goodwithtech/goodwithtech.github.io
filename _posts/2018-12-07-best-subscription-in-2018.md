@@ -15,7 +15,6 @@ icon: icon-html
 あらためて振り返ると、動画関連のサービスが 3 つあり、動画が日常に密着しているんだなと思う。
 
 # 仕事編
-<br/><br/>
 
 ## [GitHub](https://github.com/)
 Private Repository は必要。
@@ -81,7 +80,6 @@ Amazon Prime ビデオでもいいんだが、英語字幕でみたかったの�
 
 # 解約したもの
 
-<br/><br/>
 ## [Safari](https://learning.oreilly.com/home/)
 O'Reilly が提供している学習プラットフォーム。
 コンテンツは優秀なのだが、全然活用できなかったので解約。
@@ -107,6 +105,5 @@ YoutubePremium に、GooglePlayMusic の権利が内包されているので解�
 <br/><br/>
 
 # まとめ
-<br/><br/>
 振り返ってみると、｢あれ解約しよう｣とか、｢思ったより利用してる｣など思うところが多かった。
 来年も書きたい。
