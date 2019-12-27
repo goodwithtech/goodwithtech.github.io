@@ -1,8 +1,8 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Goodwith LLC
-description: Goodwith LLC
+title: GOODWITH LLC
+description: GOODWITH LLC
 keywords: goodwith
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://www.goodwith.tech  # url should be 'http://<github_username>.github.io/homepage' as before
